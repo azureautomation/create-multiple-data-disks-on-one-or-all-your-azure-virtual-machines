@@ -1,0 +1,20 @@
+{
+    "Author": "Cihan Biyikoglu",
+    "ContentSize": 2189,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-multiple-data-disks-on-one-or-all-your-azure-virtual-machines/master/Create-DataDisksOnVMs.ps1",
+    "DownloadCount": 1124,
+    "Id": "Create-multiple-data-disks-c73ccee5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 550,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-6-30T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The script comes in handy, when you'd like to create multiple data drives of identical size on one or all of your VMs. You can specify the number of data disks and size for each in GB. Specifying a single VM name will apply the gives to the given VM name. If you specify 'All\"",
+    "Title": "Create multiple data disks on one or all your Azure Virtual Machines",
+    "UpdatedDate": "2014-6-30T00:00:00",
+    "Url": "https://github.com/azureautomation/create-multiple-data-disks-on-one-or-all-your-azure-virtual-machines",
+    "UserTags": "Microsoft Azure, Windows Azure Virtual Machines, Windows Azure PowerShell"
+}
